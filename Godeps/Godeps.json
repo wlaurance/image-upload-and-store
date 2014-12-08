@@ -1,0 +1,16 @@
+{
+	"ImportPath": "github.com/wlaurance/image-upload-and-store",
+	"GoVersion": "go1.3.3",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/inject",
+			"Comment": "v1.0-rc1-4-g4b81725",
+			"Rev": "4b8172520a03fa190f427bbd284db01b459bfce7"
+		},
+		{
+			"ImportPath": "github.com/go-martini/martini",
+			"Comment": "v1.0-62-g0667da2",
+			"Rev": "0667da2d9fb42143323bb9d1ae05030fd628a073"
+		}
+	]
+}
