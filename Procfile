@@ -1,1 +1,1 @@
-web: image-upload-and-serve
+web: images
